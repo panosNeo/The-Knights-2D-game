@@ -1,8 +1,8 @@
 # The Knights - 2D game
  2D game. Created in Unity with C#.
 
-<ul>
 All sprites are found in the following links : 
+<ul>
  <li>
 https://itch.io/game-assets
  </li>
