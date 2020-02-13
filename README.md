@@ -14,7 +14,7 @@ https://www.gameart2d.com
  </li>
 </ul>
 
-The sounds are found here : <br>
+The sounds are found in : <br>
 https://freesound.org/
 
 The executable code can be found here : <br>
